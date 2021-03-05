@@ -33,13 +33,3 @@ npm-debug.*
 *.mobileprovision
 .DS_Store
 
-# config file containing credentials
-config.js
-app/package-lock.json
-tools/convertBSF/output/*
-service/uploads/chatFile-*
-webapp/*/build/*
-webapp/**/SharedCommon/*.*s*
-service/lessons/*
-tools/BSF_ACT/BSF2019/**/*.json
-tools/BSF_ACT/BSF2019/**/*.png
