@@ -9,7 +9,7 @@ const passport = require("passport");
 const passportJWT = require("passport-jwt");
 const jwt = require("jsonwebtoken");
 
-const port = 3000;
+const port = 4000;
 const app = express();
 const server = http.createServer(app);
 
